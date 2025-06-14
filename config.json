@@ -1,0 +1,6 @@
+{
+  "device_id": "B",
+  "sensor_pin": 27,
+  "host": "170.20.10.3",
+  "port": 65432
+}
